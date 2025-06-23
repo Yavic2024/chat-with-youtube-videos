@@ -22,7 +22,7 @@ This project demonstrates how to build an application that allows users to inter
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/chat_with_youtube_videos.git
+    git clone https://github.com/Yavic2024/chat_with_youtube_videos.git
     cd chat_with_youtube_videos
     ```
 
